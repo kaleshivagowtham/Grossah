@@ -32,3 +32,21 @@ Please adhere to this project's `code of conduct`
 
 **Server:** Java Spring Boot
 
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/kaleshivagowtham/Grossah.git
+```
+
+Install dependencies for **client** and **client-web**
+```bash
+  npm install
+```
+or
+```bash
+  npm i
+```
+
